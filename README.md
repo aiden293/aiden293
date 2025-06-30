@@ -3,6 +3,7 @@ This is SangHyup Lee
 
 
 🔭 On Going Projects: project.GG(Game Tracking), project.webzine, projectHM(2D Game)
+
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=%23000000)
