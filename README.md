@@ -1,5 +1,6 @@
 Hello there! 👋
-This is SangHyup Lee 
+This is SangHyup Lee.
+Computer Science & Economics @ BU
 
 
 🔭 On Going Projects: project.GG(Game Tracking), project.webzine, projectHM(2D Game)
