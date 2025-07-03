@@ -9,7 +9,7 @@ Computer Science & Economics @ BU
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=Python&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=JavaScript&logoColor=%23000000)
-![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=JavaScript&logoColor=%23000000)
+![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=css&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=css&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Unity-%23FFFFFF?style=flat-square&logo=Unity&logoColor=%23000000)
