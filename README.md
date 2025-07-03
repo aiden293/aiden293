@@ -14,6 +14,8 @@ Computer Science & Economics @ BU
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Unity-%23FFFFFF?style=flat-square&logo=Unity&logoColor=%23000000)
 ![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=flat-square&logo=Jupyter&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/WebAssembly-%23654FF0?style=flat-square&logo=WebAssembly&logoColor=%23ffffff)
+
 
 
 
