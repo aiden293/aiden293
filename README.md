@@ -24,7 +24,7 @@ Computer Science & Economics @ BU
 
 Here are some ideas to get you started:
 
-- 🔭 On Going Projects: project.GG(Game Tracking), project.webzine, projectHM(2D Game)
+- 🔭 On Going Projects: TFT Tracker
 - 🌱
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
